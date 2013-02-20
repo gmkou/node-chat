@@ -1,0 +1,12 @@
+{
+   "facebook":{
+	"id" : "GET_APP_ID",
+	"secret" : "GET_APP_SECRET"
+    },
+
+   "twitter":{
+         "key" : "GET_CONSUMER_KERY",
+	 "secret" : "GET_CONSUMER_SECRET"
+    }
+
+}
